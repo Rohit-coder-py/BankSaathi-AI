@@ -46,7 +46,7 @@
 
 > 🚧 **Deployment coming soon.** The link below is a placeholder and will be updated when the app goes live.
 
-### 👉 [**https://your-app-name.streamlit.app**](https://your-app-name.streamlit.app)
+### 👉 [**BankSaathi AI**](https://banksaathi-ai-gen-ai.streamlit.app/)
 
 ---
 
