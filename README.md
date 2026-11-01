@@ -44,8 +44,6 @@
 
 ## 🌐 Live Demo
 
-> 🚧 **Deployment coming soon.** The link below is a placeholder and will be updated when the app goes live.
-
 ### 👉 [**BankSaathi AI**](https://banksaathi-ai-gen-ai.streamlit.app/)
 
 ---
